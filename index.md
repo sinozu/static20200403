@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<div class="uz-placement_code1_test uz-ny"></div>
+<link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/placement_code1_test/css/outer-style.css">
+<script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/placement_code1_test/js/outer-frame.min.js" charset="utf-8"></script>
