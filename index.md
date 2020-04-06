@@ -1,11 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>sample</title>
-<link href="css/style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
+
 	<div id="page">
 		<div id="main_image">
 			<div id="main_image_inner">
@@ -18,10 +11,8 @@
 そしたらなんか人がめちゃくちゃいっぱいで座れないんです。
 		</main>
 	</div>
-</body>
   
 
 <div class="uz-placement_code1_test uz-ny"></div>
 <link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/placement_code1_test/css/outer-style.css">
 <script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/placement_code1_test/js/outer-frame.min.js" charset="utf-8"></script>
-</html>
