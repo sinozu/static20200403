@@ -6,6 +6,7 @@
 			</div>
 		</div>
 		<main>
+		<img id="main-thum" src="">
 			<section id="section01">
 				昨日、近所の吉野家行ったんです。吉野家。
 そしたらなんか人がめちゃくちゃいっぱいで座れないんです。
