@@ -4,12 +4,11 @@
 			<h1>記事のタイトル1</h1>
 		</div>
 	</div>
-	<main>
 	<img id="main-thum" src="https://sinozu.github.io/static20200403/01/food_gyudon.png">
-		<section id="section01">
+		<div id="section01">
 			昨日、近所の吉野家行ったんです。吉野家。
 そしたらなんか人がめちゃくちゃいっぱいで座れないんです。
-	</main>
+		</div>
 </div>
   
 
