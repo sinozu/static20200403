@@ -10,7 +10,24 @@
 		</div>
 </div>
 
-
+<br>
+<br>
+<h2>Type1</h2>
 <div class="uz-placement_code1_test uz-ny"></div>
 <link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/placement_code1_test/css/outer-style.css">
 <script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/placement_code1_test/js/outer-frame.min.js" charset="utf-8"></script>
+
+
+<br>
+<br>
+<h2>random</h2>
+<div class="uz-uo_placement_code_random uz-ny"></div>
+<link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_random/css/outer-style.css">
+<script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_random/js/outer-frame.min.js" charset="utf-8"></script>
+
+<br>
+<br>
+<h2>ranking</h2>
+<div class="uz-uo_placement_code_ranking uz-ny"></div>
+<link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_ranking/css/outer-style.css">
+<script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_ranking/js/outer-frame.min.js" charset="utf-8"></script>
