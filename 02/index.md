@@ -13,6 +13,15 @@
 <br>
 <br>
 <br>
+<hr>
+<h2>Infeed</h2>
+<div class="uz-uo_placement_code_infeed uz-ny"></div>
+<link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_infeed/css/outer-style.css">
+<script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_infeed/js/outer-frame.min.js" charset="utf-8"></script>
+
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
