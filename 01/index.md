@@ -18,6 +18,18 @@
 <br>
 <br>
 <hr>
+<h2>Ad02</h2>
+<div class="uz-uo_placement_code_ad02 uz-ny"></div>
+<link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_ad02/css/outer-style.css">
+<script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_ad02/js/outer-frame.min.js" charset="utf-8"></script>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
 <h2>Type1</h2>
 <div class="uz-placement_code1_test uz-ny"></div>
 <link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/placement_code1_test/css/outer-style.css">
