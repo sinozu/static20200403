@@ -1,7 +1,7 @@
 <div id="page">
 	<div id="main_image">
 		<div id="main_image_inner">
-			<h1>イカ焼き：送客先専用02</h1>
+			<h1>イカ焼き：送客先専用</h1>
 		</div>
 	</div>
 	<img id="main-thum" src="https://sinozu.github.io/static20200403/05/food_ikayaki.png">
