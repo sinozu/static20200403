@@ -17,7 +17,7 @@
 <br>
 <br>
 <hr>
-<h2>送客(uresta)</h2>
+<h2>送客(uresta:type1)</h2>
 <div class="uz-uo_placement_code_uresta_type1 uz-ny"></div>
 <link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_uresta_type1/css/outer-style.css">
 <script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_uresta_type1/js/outer-frame.min.js" charset="utf-8"></script>
