@@ -9,6 +9,19 @@
 			黒棒（くろぼう）とは、主に九州地方（福岡県筑後地方や佐賀県、熊本県）で作られてきた焼菓子の1種である
 		</div>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<h2>送客(uresta)</h2>
+<div class="uz-uo_placement_code_uresta_type1 uz-ny"></div>
+<link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_uresta_type1/css/outer-style.css">
+<script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/uo_placement_code_uresta_type1/js/outer-frame.min.js" charset="utf-8"></script>
+
 <br>
 <br>
 <br>
