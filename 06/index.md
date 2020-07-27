@@ -14,6 +14,10 @@
 <br>
 <br>
 <br>
+<div class="uz-placement_code1_uo2 uz-ny"></div>
+<link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/placement_code1_uo2/css/outer-style.css">
+<script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/placement_code1_uo2/js/outer-frame.min.js" charset="utf-8"></script>
+
 <br>
 <br>
 <hr>
