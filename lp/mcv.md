@@ -22,3 +22,15 @@ MCVのページ
     firstScriptElement.parentNode.insertBefore(script, firstScriptElement);
   })(window, document);
 </script>
+<script type="text/javascript">
+  (function (window, document) {
+    var script = document.createElement("script");
+    script.defer = true;
+    script.dataset.cvPointId = 98;
+    script.dataset.fired = "false";
+    script.className = "uzo-cv-tag"
+    script.src = "https://dev-speee-ad.akamaized.net/cv/cv.bundle.js";
+    var firstScriptElement = document.getElementsByTagName("script")[0];
+    firstScriptElement.parentNode.insertBefore(script, firstScriptElement);
+  })(window, document);
+</script>
